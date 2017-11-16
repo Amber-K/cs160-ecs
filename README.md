@@ -1,1 +1,3 @@
-Hardware Project
+# CS160 Hardware Project
+
+by Amber Kolar
